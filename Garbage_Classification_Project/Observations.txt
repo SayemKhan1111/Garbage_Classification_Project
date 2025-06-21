@@ -1,0 +1,14 @@
+Today I opened the GitHub notebook.
+It uses Transfer Learning with MobileNetV2.
+Image size required: 224x224
+Dataset should be folder-wise classified.
+
+Notebook steps include:
+- Data loading
+- Preprocessing
+- Model building
+- Training
+- Evaluation
+
+Main abhi tak code run nahi kiya, sirf samjha.
+I did not run any code as of now i only undertand the project.

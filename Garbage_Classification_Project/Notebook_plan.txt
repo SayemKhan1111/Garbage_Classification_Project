@@ -1,0 +1,7 @@
+1. Import libraries
+2. Load dataset
+3. Resize & normalize images
+4. Use MobileNetV2 as base model
+5. Add dense layer
+6. Compile & train
+7. Evaluate results
