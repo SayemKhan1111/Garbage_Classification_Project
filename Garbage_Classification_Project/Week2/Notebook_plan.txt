@@ -1,0 +1,10 @@
+1. Import Libraries
+2. Load and preprocess dataset (with EfficientNet preprocess_input)
+3. Split data into training and validation (ImageDataGenerator)
+4. Use EfficientNetV2B2 as base model (transfer learning)
+5. Freeze base, add GAP + Dense layers
+6. Compile and train model (with callbacks)
+7. Evaluate: accuracy, confusion matrix, F1-score
+8. Save model to .keras format
+9. Build Gradio UI for prediction
+10. Deploy app to Hugging Face Spaces
